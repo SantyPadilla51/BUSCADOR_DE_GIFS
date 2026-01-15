@@ -30,23 +30,15 @@ https://buscador-de-gifs-7rjrsri5s-santypadilla51s-projects.vercel.app/
 
 ---
 
-## 📂 Estructura del proyecto
-
-src/
-├── components/
-├── hooks/
-├── services/
-├── assets/
-├── App.jsx
-└── main.jsx
-
 ## ⚙️ Instalación y uso
 
 Clonar el repositorio:   
 git clone https://github.com/SantyPadilla51/BUSCADOR_DE_GIFS.git
 
 npm install
+
 npm run dev
+
 http://localhost:5173
 
 ---
@@ -55,21 +47,22 @@ http://localhost:5173
 
 Este proyecto fue desarrollado con fines educativos y de práctica, enfocado en:
 
-Consumo de APIs externas
+- Consumo de APIs externas
 
-Manejo de estados en React
+- Manejo de estados en React
 
-Componentización
+- Componentización
 
-Buenas prácticas en desarrollo frontend
+- Buenas prácticas en desarrollo frontend
 
-Deploy de aplicaciones con Vercel
+- Deploy de aplicaciones con Vercel
 
 --- 
 
 👨‍💻 Autor
 
 Santiago Padilla
+
 Software Developer
 
 GitHub: https://github.com/SantyPadilla51
